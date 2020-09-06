@@ -37,8 +37,6 @@ This library will be header-only for as long as I can pull it off.
 
 No tests right now!  Living dangerously and rapid-developing it as necessary for other libraries to function properly.
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the LGPL v2.1 - see the [LICENSE.md](LICENSE.md) file for details
