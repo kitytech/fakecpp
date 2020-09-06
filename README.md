@@ -2,7 +2,7 @@
 
 A little project to bandage standard library features that are missing in certain embedded toolchains.  This library does not aim to provide compliance with any particular C++ standard, but is intended to make C++11 easier to work with by (hopefully) adding some things that are present in later versions.  
 
-This library is intended mainly for use with and support of the `kity` and related projects, but is being published in case anyone else might find it useful as a quick band-aid solution.
+This library is intended mainly for use with and support of the `kity` and related projects, but is being published in case anyone else might find it useful as a quick band-aid solution for their own projects.
 
 ### Prerequisites
 
