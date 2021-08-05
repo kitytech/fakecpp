@@ -11,8 +11,10 @@ namespace cpp {
     using make_unsigned_t = typename std::make_unsigned<T>::type;
   template<typename T>
     using remove_const_t = typename std::remove_const<T>::type;
-  template<typename T>
-    using remove_reference_t = typename std::remove_reference<T>::type;
+  template<typename t>
+    using remove_reference_t = typename std::remove_reference<t>::type;
+  template<typename t>
+    using underlying_type_t = typename std::underlying_type<t>::type;
   template< class T >
     using decay_t = typename std::decay<T>::type;
 #endif
